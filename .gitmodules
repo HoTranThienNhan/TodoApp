@@ -1,0 +1,6 @@
+[submodule "TodoAppAngularFrontEnd"]
+	path = TodoAppAngularFrontEnd
+	url = https://github.com/HoTranThienNhan/TodoAppAngularFrontEnd.git
+[submodule "TodoAppDotnetBackEnd"]
+	path = TodoAppDotnetBackEnd
+	url = https://github.com/HoTranThienNhan/TodoAppDotnetBackEnd.git
