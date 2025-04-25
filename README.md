@@ -40,7 +40,7 @@ It seems interesting 😎? Let's get started!
 <br />
 
 ### Built With
-<b>Todo App</b> project has been boostrapped and building with those below frameworks/libraries/tools/DBMS:
+<b>Todo App</b> project has been boostrapped and building with those below technologies:
 <div>
   <a href="https://angular.dev/"><img width="40" alt="angular_gradient" src="https://github.com/user-attachments/assets/d35f7322-5c8c-441f-9fe6-4f1345b1a427" /></a>
   <a href="https://dotnet.microsoft.com/en-us/"><img alt="dotnet" src="https://github.com/user-attachments/assets/f8eaa794-221f-4221-af06-d7e6354287ef" width="36"></a>
@@ -53,7 +53,21 @@ It seems interesting 😎? Let's get started!
 <br />
 
 ## Getting Started
+<b>Todo App</b> project has been come up and executed using some platforms for designing the APIs and the UX/UI during the pre-development period.
 
+### APIs
+<div> 
+  This project will use <b>Postman</b> - an excellent APIs designing and developing platform, to build and test the APIs between Front-end and Back-end.
+</div>
+<br>
+<i>See the <a href="https://documenter.getpostman.com/view/29237713/2sB2izEDJs">Todo App APIs</a> with Postman.</i>
+
+### UX/UI
+<div> 
+  <b>Figma</b> is the chosen tool for designing the high-fidelity, no-code and interactive prototypes. Todo App has been building with UI Kits, responsive designs (components, frames). 
+</div>
+<br>
+<i>Let's checkout the <a href="https://www.figma.com/design/LzhZrqZbAWsojUKmDMpHBS/Todo-App-Figma?node-id=0-1&t=FRJXRouaT5XUuPVT-1">Todo App Figma</a>.</i>
 
 
 
